@@ -1,0 +1,8 @@
+#  abikan semua file .pyc
+*.pyc
+
+# abaikan file bernama git.py
+git.py
+
+# abaikan direktori bernama temp
+temp/
