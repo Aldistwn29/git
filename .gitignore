@@ -6,3 +6,6 @@ git.py
 
 # abaikan direktori bernama temp
 temp/
+
+# ignore folder
+my_venv/
